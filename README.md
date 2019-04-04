@@ -16,3 +16,9 @@ Astronomy 423: Stellar Astrophysics
 3. [Binary Systems](https://github.com/jbredall/ASTR423/blob/master/HW3/ASTR%20423%20Homework%203.ipynb)
 
 4. Line Broadening
+
+5. Protostars
+
+6. Nuclear Reactions
+
+7. [Equations of State](https://github.com/jbredall/ASTR423/blob/master/HW7/ASTR%20423%20Homework%207.ipynb)
