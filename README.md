@@ -22,3 +22,5 @@ Astronomy 423: Stellar Astrophysics
 6. [Nuclear Reactions](https://github.com/jbredall/ASTR423/blob/master/HW6/ASTR%20423%20Homework%206.pdf)
 
 7. [Equations of State](https://github.com/jbredall/ASTR423/blob/master/HW7/ASTR%20423%20Homework%207.ipynb)
+
+8. [The Astrophysical Distance Ladder](https://github.com/jbredall/ASTR423/blob/master/HW8/ASTR%20423%20HW%208.ipynb)
